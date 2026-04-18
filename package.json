@@ -1,0 +1,9 @@
+{
+  "name": "baking-beyond-boundaries",
+  "version": "1.0.0",
+  "description": "Fullstack project for Baking Beyond Boundaries",
+  "private": true,
+  "scripts": {
+    "ev": "npm run dev --prefix frontend & npm run dev --prefix backend"
+  }
+}

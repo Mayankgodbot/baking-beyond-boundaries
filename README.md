@@ -2,6 +2,8 @@
 
 Premium Bakery & Custom Cake Business Website
 
+[Live Demo](https://bakingbeyondboundaries.in)
+
 ## Tech Stack
 
 - **Frontend**: Next.js 14 (React) + TypeScript
